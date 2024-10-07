@@ -1,0 +1,19 @@
+/* src/components/Dashboard.css */
+
+.dashboard-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.dashboard-container h2 {
+    margin-bottom: 20px;
+}
+
+.dashboard-container p {
+    font-size: 18px;
+}
